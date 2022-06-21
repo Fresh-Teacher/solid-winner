@@ -1,0 +1,7 @@
+- name: Label Maker
+  # You may pin to the exact commit or the version.
+  # uses: tjgurwara99/label-maker@b03401694125d2625bc016232a320b0d9b12291b
+  uses: tjgurwara99/label-maker@v0.1.2
+  with:
+    # Github token
+    token: 
