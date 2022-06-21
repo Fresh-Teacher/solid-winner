@@ -1,0 +1,7 @@
+- name: sample-action11
+  # You may pin to the exact commit or the version.
+  # uses: devaradhanm/sample-action@72c645039a2af7c53cdbc43db5fb270842df100f
+  uses: devaradhanm/sample-action@v1.1.0
+  with:
+    # Who to greet
+    who-to-greet: # default is World
